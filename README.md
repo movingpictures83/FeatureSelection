@@ -17,3 +17,8 @@ clinical (testing data set)
 
 It will then output the features that most distinguish each group,
 in CSV format.
+
+Note the input TSV and CSV files in the example/ directory are not publically available.
+A future goal is to make a synthetic data set.  In the meantime however, one may
+use it on their own tab-separated input data.
+
