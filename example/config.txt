@@ -1,0 +1,2 @@
+Prefix plugins/FeatureSelection/example/
+Plugin FeatureSelection inputfile parameters.txt outputfile DEE1_RSV_0_-24.csv
