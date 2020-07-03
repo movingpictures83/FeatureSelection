@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT (parameters)
 # Output: CSV (optimal parameters)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: affy_1.66.0, limma_3.44.0, matrixStats_0.56.0
 
 PluMA plugin that takes two datasets (training and test),
 each of which have case and control samples.
